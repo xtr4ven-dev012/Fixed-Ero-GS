@@ -73,3 +73,5 @@ Build it using Visual studio 2022
 in backend.h to change ip ( optioniol idk what will happen if you dont )
 
 I did not code any of this gameserver !
+
+# If marvelco or pisudayo want me to take this down i will! dm me on discord if they say to !
