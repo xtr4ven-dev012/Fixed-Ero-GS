@@ -70,7 +70,7 @@ Tutorial
 
 Extract the SDK
 Build it using Visual studio 2022
-in backend.h to change ip ( optioniol idk what will happen if you dont )
+in backend.h to change ip ( optininol idk what will happen if you dont change the ip )
 
 I did not code any of this gameserver !
 
