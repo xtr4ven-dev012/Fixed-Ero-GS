@@ -64,7 +64,7 @@ added Emote sprays
 added Quick chat emoji
 
 
-These are original ero gs stuff above!!
+## These are original ero gs stuff above!!
 
 Tutorial
 
