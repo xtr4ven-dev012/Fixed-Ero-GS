@@ -7,7 +7,8 @@ make sure in backendstuff.h you change the ips
 Note : Credits to Eon and Marvelco for base etc
 Reminder to make sure and give creidts to ero/eon gameserver!!
 
-Features
+## Features
+
 Every thing that fortnite had at that time 1:1 proper
 
 A lot of inventory fixes
@@ -61,6 +62,7 @@ Added the ability to pickup proxy mines and C4 after being placed
 added Emote sprays
 
 added Quick chat emoji
+
 
 These are original ero gs stuff above!!
 
