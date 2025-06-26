@@ -2,7 +2,7 @@ FIXED ERO GS!
 
 I did not really code or change anything all i really did was fix 2 errors lol, 
 
-make sure in backendstuff.h you change the ips
+make sure in backendstuff.h you change the ips, This is meant to be built in Release and not Debug
 
 Note : Credits to Eon and Marvelco for base etc
 Reminder to make sure and give creidts to ero/eon gameserver!!
